@@ -1,0 +1,60 @@
+Nama: Lindsey Lewis
+Nomor Telepon: 321-760-8742
+Alamat: 8645 Murphy Lane Suite 046
+East Jeffrey, RI 54063
+Email: yvelasquez@example.com
+
+Nama: Penny Sims
+Nomor Telepon: (257)845-7666
+Alamat: PSC 2612, Box 9277
+APO AA 87624
+Email: yjohnson@example.org
+
+Nama: Alicia Moore
+Nomor Telepon: +1-456-909-6825x935
+Alamat: 7169 Michael Parkways
+West Carolyn, MP 55003
+Email: marksmith@example.com
+
+Nama: Vanessa Miller
+Nomor Telepon: (820)650-3290
+Alamat: USS Duncan
+FPO AA 22592
+Email: christina32@example.net
+
+Nama: Jason Price
+Nomor Telepon: 799-547-0331x8560
+Alamat: 70259 Mckinney Grove
+South John, KS 42484
+Email: bettymyers@example.net
+
+Nama: Lisa Neal
+Nomor Telepon: 7485153873
+Alamat: 0297 Erica Common Suite 044
+South Michaelmouth, KY 21425
+Email: hector08@example.org
+
+Nama: Jeremy Aguilar
+Nomor Telepon: (634)454-2595x890
+Alamat: USNV Roberts
+FPO AE 29800
+Email: ortizmichael@example.com
+
+Nama: Christina Barrett
+Nomor Telepon: 329.749.5412x663
+Alamat: Unit 6530 Box 0542
+DPO AA 58908
+Email: hhayes@example.org
+
+Nama: Michael Cruz
+Nomor Telepon: 531-721-3583
+Alamat: USNV Walters
+FPO AE 17290
+Email: chad18@example.org
+
+Nama: Jesus Fisher
+Nomor Telepon: (952)653-0316x896
+Alamat: USNV Carr
+FPO AE 56165
+Email: omendoza@example.org
+
